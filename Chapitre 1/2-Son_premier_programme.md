@@ -1,4 +1,4 @@
-# Chapitre 1 : Le Début d'une Aventure - Syntaxe de base en Java
+# Chapitre 1 : Le Début d'une Aventure - premier programme
 
 Armé de son environnement de développement fraîchement installé, Modou s'apprête à écrire son tout premier programme en Java. Imaginez-vous dans la bibliothèque silencieuse de l'université, où chaque clic de clavier résonne comme le début d'une nouvelle symphonie.
 
