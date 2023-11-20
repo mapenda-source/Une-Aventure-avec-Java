@@ -1,4 +1,4 @@
-**Chapitre 1 : Le Début d'une Aventure - comilation et execution du code**
+# Chapitre 1 : Le Début d'une Aventure - comilation et execution du code
 
 La découverte de Modou dans le monde de Java atteignit un moment clé : celui où il devait compiler et exécuter son tout premier programme. L'excitation bourdonnait dans l'air, et la salle informatique était devenue le théâtre de cette nouvelle étape de son aventure.
 
