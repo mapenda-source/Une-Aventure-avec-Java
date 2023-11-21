@@ -1,4 +1,4 @@
-package Chapitre2.ecriture;
+package chapitre2.ecriture;
 
 public class ProgrammeJava {
     public static void main(String[] args) {
